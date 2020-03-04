@@ -413,9 +413,9 @@ h3 {
   background: #0181F5;
   color: #fff;
   display: inline-block;
-  padding: 14px 38px;
+  padding: 14px 15px;
   font-family: "Alata", sans-serif;
-  font-size: 14px;
+  font-size: 17px;
   font-weight: 500;
   border: 0;
   border: 1px solid #fff;
@@ -3827,7 +3827,7 @@ h3 {
 }
 
 .work_details_area .details_single_img .row {
-  margin-bottom: 40px;
+  margin-bottom: 80px;
 }
 
 /* line 74, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_portfolio_details.scss */
