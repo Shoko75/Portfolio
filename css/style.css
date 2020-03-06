@@ -412,7 +412,10 @@ h3 {
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#0181f5+0,5db2ff+100 */
   background: #0181F5;
   color: #fff;
-  display: inline-block;
+  /* display: inline-block; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
   padding: 14px 14px;
   font-family: "Alata", sans-serif;
   font-size: 17px;
@@ -430,6 +433,10 @@ h3 {
   -o-transition: 0.5s;
   transition: 0.5s;
   cursor: pointer;
+}
+
+.boxed-btn3 i{
+  margin-right: 10px;
 }
 
 /* line 46, ../../Arafath/CL/December/230. Portfolio/HTML/scss/_btn.scss */
